@@ -1,0 +1,1 @@
+/home/uzair/iot_folder/assignment/assignment7/a7q3/target/debug/a7q3: /home/uzair/iot_folder/assignment/assignment7/a7q3/src/house.rs /home/uzair/iot_folder/assignment/assignment7/a7q3/src/lib.rs /home/uzair/iot_folder/assignment/assignment7/a7q3/src/main.rs
